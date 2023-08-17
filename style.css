@@ -1,0 +1,37 @@
+
+.nb_facture{
+    float: right;
+    font-size: xx-large;
+    margin-right: 1rem;
+}
+
+.date{
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    padding: 1rem;
+}
+
+.client{
+    border-style: solid;
+    border-color: black;
+    display: inline;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-right: 1rem;
+    float: right;
+}
+
+table{
+    height: 15rem;
+    width: 60%;
+}
+
+.prix{
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    margin-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
